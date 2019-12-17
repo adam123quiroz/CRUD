@@ -12,4 +12,4 @@ if($nombres&&$app&&$apm&&$correo){
 	$resultado = mysqli_query($conexion,$registro);
 
 }
-header('Location: lista.php');
+header('Location: lista_usuario.php');

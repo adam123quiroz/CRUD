@@ -16,4 +16,4 @@ FIN;
         die('No se pudo agregar el registro');
     }
 }
-header('Location: lista.php');
+header('Location: lista_usuario.php');

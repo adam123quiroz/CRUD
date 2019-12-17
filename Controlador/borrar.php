@@ -7,4 +7,4 @@ if($id){
         die('No se pudo eliminar el registro');
     }
 }
-header('Location: lista.php');
+header('Location: lista_usuario.php');
